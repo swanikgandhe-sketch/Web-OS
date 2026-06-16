@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<body style="background-color: #32a89e; color: white;">
+  <h1 style="margin: 5px;">swanikOS</h1>
+  <h1 style="padding: 4px; margin: 4px; background-color: #000; color: #fff">swanikOS</h1>
+  <h1>Welcome to my OS</h1>
+  <h2>Introduction</h2>
+  <p>Hello world!</p>
+  <img src="./gratisography-cyber-kitty-800x525.jpeg" />
+  <a href="https://www.khanacademy.org//">label</a>
+</body>
